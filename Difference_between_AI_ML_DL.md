@@ -17,3 +17,4 @@ AI will go for finding the optimal solution.	ML will go for only solution for th
 AI leads to intelligence or wisdom.	ML leads to knowledge.
 
 ![Difference](images/Difference.png)
+![Difference2](images/Difference2.png)
