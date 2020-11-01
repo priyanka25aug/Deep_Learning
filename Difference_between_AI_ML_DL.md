@@ -7,5 +7,10 @@ The key difference between AI and ML are:
 
 
 ![Difference](images/Difference.png)
+<br>
+<br>
+
 ![Difference1](images/Difference1.png)
+<br>
+<br>
 ![Difference2](images/Difference2.png)
