@@ -14,9 +14,9 @@ A simple NN has a input layer, hidden layer and Output layer.
 
 
 
-![NN3](images/nn3.png)
+![NN3](images/nn3.PNG)
 
-![NN4](images/nn4.png)
+![NN4](images/nn4.PNG)
 
 
 
