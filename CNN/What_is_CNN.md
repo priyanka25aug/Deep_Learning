@@ -6,17 +6,17 @@ its different and better than most traditional machine learning algorithms becau
 
 A simple NN has a input layer, hidden layer and Output layer. 
 
-![NN](images/NN1.png)
+![NN1](images/NN1.png)
 
 
 
-![NN](images/nn2.png)
+![NN2](images/nn2.png)
 
 
 
-![NN](images/nn3.png)
+![NN3](images/nn3.png)
 
-![NN](images/nn4.png)
+![NN4](images/nn4.png)
 
 
 
